@@ -1,0 +1,19 @@
+cd
+ls
+mv
+cp
+mkdir
+touch
+rm
+grep
+pwd
+find
+cat
+chmod
+man
+less
+vim
+txt
+python
+cd ..
+cd -
